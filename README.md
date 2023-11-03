@@ -10,12 +10,16 @@
   ## Table of Contents
 
   * [Installation](#installation)
+  * [Usage](#usage)
   * [License](#license)
   * [Contributing](#contributing)
   * [Questions](#questions)
 
   ## Installation
-  Go to the neumorph-calender.online website and choose the year to see the dates.
+  Visit http://neumorph-calendar.online to see it live. 
+
+  ## Usage
+  Choose the year with the arrows to see the dates change.
 
   ## License
   This Source Code Form is subject to the terms of the  License. 
